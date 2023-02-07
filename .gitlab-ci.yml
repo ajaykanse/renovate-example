@@ -37,7 +37,7 @@ renovate:
     RENOVATE_IGNORE_PR_AUTHOR: 'true'
     LOG_LEVEL: info
     RENOVATE_TOKEN: ${GITLAB_TOKEN}
-    RENOVATE_EXTRA_FLAGS: o1266/renovate-sample
+    RENOVATE_EXTRA_FLAGS: "ajaykanse/renovate-example"
   stage: build
   tags:
     - openshift
