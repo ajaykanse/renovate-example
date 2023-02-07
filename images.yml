@@ -1,0 +1,3 @@
+images:
+  # renovate: datasource=docker image=registry.access.redhat.com/ubi8/ubi versioning=redhat
+  - registry-access-redhat-com.artifactory.com/ubi8/ubi:8.6-990
